@@ -2,7 +2,7 @@
 
 
 ## Insight 1
-1. Visualization Link: [What categories are the most liked and disliked?](https://public.tableau.com/views/Whatcategoriesarethemostlikedanddisliked_16692756922720/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+1. **Visualization Link**: [What categories are the most liked and disliked?](https://public.tableau.com/views/Whatcategoriesarethemostlikedanddisliked_16692756922720/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 2. Summary: On this dashboard, we can see the most liked and disliked
 categories. It looks like Music videos are the most liked videos with
 an average likes (151,821) and average dislikes (4,966).
